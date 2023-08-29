@@ -50,12 +50,7 @@ faq:
       for anyone coming on campus and masking when attending tutorials or in
       hacking rooms.
   - question: What does registration include?
-    answer:
-      In-person registration includes access to all in-person tutorials and the
-      ability to join an in-person hacking project group. In-person registration
-      also includes breakfast, lunch, and snacks on all three days. Virtual
-      attendees will be provided with zoom links that will allow them to attend
-      any or all tutorials.
+    answer: In-person registration includes access to all in-person tutorials and the ability to join an in-person hacking project group. In-person registration also includes breakfast, lunch, and snacks on all three days. Virtual attendees will be provided with zoom links that will allow them to attend any or all tutorials.
   - question: Do I need to register if I only want to hack?
     answer: |
       Yes! Anyone wishing to participate in any aspect of Brainhack Western
@@ -119,8 +114,8 @@ location:
   name: Western Interdisciplinary Research Building
   street: Perth Dr
   city: London
-  province: 'ON'
-  url: 'https://www.uwo.ca/bmi/about/wirb.html'
+  province: "ON"
+  url: "https://www.uwo.ca/bmi/about/wirb.html"
   maps_id: ChIJCVSloavvLogR82_w3v729s0
 organizers:
   - Suzanne Witt
@@ -130,9 +125,9 @@ organizers:
   - Peter Van Dyken
   - Ali Khan
 sponsors:
-  - img: '/img/brainscan_logo.png'
+  - img: "/img/brainscan_logo.png"
     name: Brainscan
-    url: 'https://brainscan.uwo.ca'
+    url: "https://brainscan.uwo.ca"
 schedule:
   - name: Tutorials
     startTime: 8
@@ -143,37 +138,37 @@ schedule:
         year: 2022
         events:
           - name: Breakfast
-            time: '8:00'
-            duration: '1:00'
+            time: "8:00"
+            duration: "1:00"
             room: WIRB 4190
           - name: Welcome & Project Pitches
-            time: '9:00'
-            duration: '1:00'
+            time: "9:00"
+            duration: "1:00"
             color: blue
             room:
               - WIRB 1170
           - name: Lunch
-            time: '12:00'
-            duration: '1:30'
+            time: "12:00"
+            duration: "1:30"
             room: WIRB 4190
           - tutorial: git
-            time: '10:30'
-            duration: '1:30'
-            color: '#1f331e'
+            time: "10:30"
+            duration: "1:30"
+            color: "#1f331e"
             priority: 1
             room:
               - WIRB 1170
           - tutorial: mri
-            time: '13:30'
-            duration: '1:30'
-            color: '#1f331e'
+            time: "13:30"
+            duration: "1:30"
+            color: "#1f331e"
             priority: 1
             room:
               - WIRB 4190
           - tutorial: data-management
-            time: '15:00'
-            duration: '1:30'
-            color: '#1f331e'
+            time: "15:00"
+            duration: "1:30"
+            color: "#1f331e"
             priority: 1
             room:
               - WIRB 4190
@@ -182,89 +177,89 @@ schedule:
         year: 2022
         events:
           - name: Breakfast
-            time: '8:00'
-            duration: '1:00'
+            time: "8:00"
+            duration: "1:00"
             room: WIRB 4190
           - tutorial: reproducability
-            time: '9:00'
-            duration: '1:00'
-            color: '#1f331e'
+            time: "9:00"
+            duration: "1:00"
+            color: "#1f331e"
             priority: 1
             room:
               - WIRB 4190
           - tutorial: bias
-            time: '10:00'
-            duration: '1:00'
-            color: '#1f331e'
+            time: "10:00"
+            duration: "1:00"
+            color: "#1f331e"
             priority: 1
             room:
               - WIRB 3000
           - tutorial: data-mining
-            time: '12:30'
-            duration: '1:30'
-            color: '#1f331e'
+            time: "12:30"
+            duration: "1:30"
+            color: "#1f331e"
             priority: 1
             room:
               - WIRB 4190
           - tutorial: behaviour
-            time: '12:30'
-            duration: '1:30'
-            color: '#1f331e'
+            time: "12:30"
+            duration: "1:30"
+            color: "#1f331e"
             priority: 1
             room:
               - WIRB 1110
           - tutorial: data-viz
-            time: '15:00'
-            duration: '1:30'
-            color: '#1f331e'
+            time: "15:00"
+            duration: "1:30"
+            color: "#1f331e"
             priority: 1
             room:
               - WIRB 1170
           - name: Lunch
-            time: '11:00'
-            duration: '1:30'
+            time: "11:00"
+            duration: "1:30"
             room: WIRB 4190
       - day: 2
         month: 12
         year: 2022
         events:
           - name: Breakfast
-            time: '8:00'
-            duration: '1:00'
+            time: "8:00"
+            duration: "1:00"
             room: WIRB 4190
           - tutorial: anat
-            time: '9:00'
-            duration: '1:30'
-            color: '#1f331e'
+            time: "9:00"
+            duration: "1:30"
+            color: "#1f331e"
             priority: 1
             room:
               - WIRB 1130
           - tutorial: eeg
-            time: '10:30'
-            duration: '1:30'
-            color: '#1f331e'
+            time: "10:30"
+            duration: "1:30"
+            color: "#1f331e"
             priority: 1
             room:
               - WIRB 1120
           - tutorial: fanbids
-            time: '10:30'
-            duration: '1:30'
-            color: '#1f331e'
+            time: "10:30"
+            duration: "1:30"
+            color: "#1f331e"
             priority: 1
             room:
               - WIRB 1160
           - name: Anatomy Drop-in Demos
-            time: '10:30'
-            duration: '1:30'
-            color: '#1f331e'
+            time: "10:30"
+            duration: "1:30"
+            color: "#1f331e"
             room: WIRB 1130
           - name: Lunch
-            time: '12:00'
-            duration: '1:30'
+            time: "12:00"
+            duration: "1:30"
             room: WIRB Atrium
           - name: Project presentations & Wrap-up
-            time: '15:00'
-            duration: '1:00'
+            time: "15:00"
+            duration: "1:00"
             color: blue
             room:
               - WIRB 1170
@@ -277,37 +272,37 @@ schedule:
         year: 2022
         events:
           - name: Breakfast
-            time: '8:00'
-            duration: '1:00'
+            time: "8:00"
+            duration: "1:00"
             room: WIRB 4190
           - name: Welcome & Project Pitches
-            time: '9:00'
-            duration: '1:00'
+            time: "9:00"
+            duration: "1:00"
             color: blue
             room:
               - WIRB 1170
           - name: Lunch
-            time: '12:00'
-            duration: '1:30'
+            time: "12:00"
+            duration: "1:30"
             room: WIRB 4190
           - name: Hacking
-            time: '10:00'
-            duration: '2:00'
+            time: "10:00"
+            duration: "2:00"
             color: red
             room: WIRB 4190
           - name: Hacking
-            time: '13:30'
-            duration: '3:30'
+            time: "13:30"
+            duration: "3:30"
             color: red
             room: WIRB 1160
           - name: Hacking
-            time: '13:30'
-            duration: '2:00'
+            time: "13:30"
+            duration: "2:00"
             color: red
             room: WIRB 1120
           - name: Hacking
-            time: '15:00'
-            duration: '1:30'
+            time: "15:00"
+            duration: "1:30"
             color: red
             room: WIRB 1110
       - day: 1
@@ -315,54 +310,53 @@ schedule:
         year: 2022
         events:
           - name: Breakfast
-            time: '8:00'
-            duration: '1:00'
+            time: "8:00"
+            duration: "1:00"
             room: WIRB 4190
           - name: Lunch
-            time: '11:00'
-            duration: '1:30'
+            time: "11:00"
+            duration: "1:30"
             room: WIRB 4190
           - name: Hacking
-            time: '9:00'
-            duration: '1:00'
+            time: "9:00"
+            duration: "1:00"
             color: red
             room: WIRB 1130
           - name: Hacking
-            time: '14:00'
-            duration: '2:30'
+            time: "14:00"
+            duration: "2:30"
             color: red
             room: WIRB 4190
           - name: Hacking
-            time: '13:00'
-            duration: '4:00'
+            time: "13:00"
+            duration: "4:00"
             color: red
             room: WIRB 1160
-
       - day: 2
         month: 12
         year: 2022
         events:
           - name: Breakfast
-            time: '8:00'
-            duration: '1:00'
+            time: "8:00"
+            duration: "1:00"
             room: WIRB 4190
           - name: Lunch
-            time: '12:00'
-            duration: '1:30'
+            time: "12:00"
+            duration: "1:30"
             room: WIRB Atrium
           - name: Hacking
-            time: '9:00'
-            duration: '2:00'
+            time: "9:00"
+            duration: "2:00"
             color: red
             room: WIRB 4190
           - name: Hacking
-            time: '12:00'
-            duration: '3:00'
+            time: "12:00"
+            duration: "3:00"
             color: red
             room: WIRB 1120
           - name: Project presentations & Wrap-up
-            time: '15:00'
-            duration: '1:00'
+            time: "15:00"
+            duration: "1:00"
             color: blue
             room:
               - WIRB 1170
@@ -502,9 +496,9 @@ tutorials:
       collection. Throughout, the software options available for each step will
       be briefly discussed. No previous knowledge or experience is expected.
   - id: anat
-    name: 'Neuroanatomy for Researchers: a Focus on Surgical Targets'
+    name: "Neuroanatomy for Researchers: a Focus on Surgical Targets"
     organizer: Alaa Taha
-    image: '/img/afids.png'
+    image: "/img/afids.png"
     description: |
       In this tutorial, we will begin with a basic introduction to neuroanatomy
       then briefly discuss the hippocampus, basal ganglia structures, midbrain,
@@ -621,3 +615,16 @@ projects:
         potential fiducials across various acquisition types and models in DWI.
         Those with experience in acquiring diffusion images or who have an
         interest in neuroimaging or anatomy are welcome to join!
+  2023:
+    - title: Functional Atlas Explorer
+      description: |-
+        "What does the inferior frontal gyrus do?" Googling this question returns 93,400,000 results. A skim read of paper abstracts will give you some ideas about its functions. But wouldn't it be useful to have an interactive map where you can explore these functions in the brain? Imagine clicking on a brain region and getting a word cloud of functions that this region is highly involved in. That's what we will build!
+
+        We will create an interactive tool, useful for anyone wanting to explore their own functional data or openly available functional datasets. Together with our functional fusion toolbox (in-house & soon to be released), it lets you integrate information from many different openly available datasets (Human Connectome Project, etc).
+
+        During the project you will be able to use our existing toolbox to explore these large datasets - as well as your own data! In addition, this interactive map will provide a side by side view of your desired brain regions and their connections with other brain regions. Click on a region and you get a map of its functional connectivity to all other regions in the brain.
+
+        The tool will help synthesize findings across studies (think Neurosynth, but directly based on fMRI data) and aid interpretation of results as well as planning of future experiments.
+      organizers:
+        - name: Peter VD
+          github: pvandyken
