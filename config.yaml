@@ -50,12 +50,7 @@ faq:
       for anyone coming on campus and masking when attending tutorials or in
       hacking rooms.
   - question: What does registration include?
-    answer:
-      In-person registration includes access to all in-person tutorials and the
-      ability to join an in-person hacking project group. In-person registration
-      also includes breakfast, lunch, and snacks on all three days. Virtual
-      attendees will be provided with zoom links that will allow them to attend
-      any or all tutorials.
+    answer: In-person registration includes access to all in-person tutorials and the ability to join an in-person hacking project group. In-person registration also includes breakfast, lunch, and snacks on all three days. Virtual attendees will be provided with zoom links that will allow them to attend any or all tutorials.
   - question: Do I need to register if I only want to hack?
     answer: |
       Yes! Anyone wishing to participate in any aspect of Brainhack Western
@@ -338,7 +333,6 @@ schedule:
             duration: '4:00'
             color: red
             room: WIRB 1160
-
       - day: 2
         month: 12
         year: 2022
@@ -527,7 +521,7 @@ projects:
     - title: Safer Multimodal Teleoperation of (Simulated) Robots
       organizers:
         - name: Pranshu Malik
-          github: "pranshumalik14"
+          github: 'pranshumalik14'
       description: |
         Being confused, freezing, or panicking while trying hard to stop,
         re-direct, or stabilize a drone (or any such robot/toy) in sudden
@@ -559,7 +553,7 @@ projects:
         match the desired motion. We can strive to keep the approach suitable
         for generalizing well enough to robots of other types and/or
         morphologies and to more unusual environments.
-    - title: "Brain3DVis: AR/MR MRI Visualizer"
+    - title: 'Brain3DVis: AR/MR MRI Visualizer'
       organizers:
         - name: Liam Bilbie
           github: LiamBilbie
@@ -571,7 +565,7 @@ projects:
         AR/VR application. We would love to work with people who have experience
         with MRI volumetric segmentation or are interested in VR/AR data
         visualization. :slightly_smiling_face:
-    - title: "Functional Atlas Explorer"
+    - title: 'Functional Atlas Explorer'
       organizers:
         - name: Caroline Nettekoven
           github: carobellum
@@ -601,7 +595,7 @@ projects:
         The tool will help synthesize findings across studies (think Neurosynth,
         but directly based on fMRI data) and aid interpretation of results as
         well as planning of future experiments.
-    - title: "DWI Fiducials"
+    - title: 'DWI Fiducials'
       organizers:
         - name: Arun Thurairajah
       description: |
@@ -622,3 +616,9 @@ projects:
         potential fiducials across various acquisition types and models in DWI.
         Those with experience in acquiring diffusion images or who have an
         interest in neuroimaging or anatomy are welcome to join!
+  2023:
+    - title: test
+      description: test
+      organizers:
+        - name: foo
+          github: pvandyken
